@@ -1,0 +1,28 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que vc veio",
+      "autoria": "Nay",
+      "modelo": "modelo1"
+    },
+    {
+      "conteudo": "Na minha máquina funciona",
+      "autoria": "Leonardo Ribeiro",
+      "modelo": "modelo3",
+      "id": 5
+    },
+    {
+      "conteudo": "Hoje eu acordei para sorrir e mostrar os dentes",
+      "autoria": "Chorão",
+      "modelo": "modelo3",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "conteudo": "Eu sou forte, eu sou corajoso, eu consigo fazer tudo, eu nasci para brilhar!",
+      "autoria": "Sofia Scaranto",
+      "modelo": "modelo3"
+    }
+  ]
+}
